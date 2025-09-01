@@ -1,7 +1,4 @@
-package BinarySearch;
-
-import java.lang.reflect.Array;
-import java.util.ArrayList;
+package BinarySearchAndBigO;
 
 public class BinarySearch {
   public static void main(String[] args) {

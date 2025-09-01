@@ -8,7 +8,7 @@
 ### Java Code
 
 ``` java
-public class BinarySearch {
+public class BinarySearchAndBigO {
     public static int search(int[] list, int item) {
         int low = 0;
         int high = list.length - 1;
@@ -38,9 +38,9 @@ public class BinarySearch {
 }
 ```
 
-### Exercices
+### Exercises
 
-1 - ***Suppose you have a sorted list of 128 names, and you’re searching
+1.1 - ***Suppose you have a sorted list of 128 names, and you’re searching
 through it using binary search. What’s the maximum number of
 steps it would take?***
 - **Answer: Maximun 7 attempts**
